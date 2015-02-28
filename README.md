@@ -6,6 +6,7 @@ Concepts good to know for C programmers
 - [ANSI C](#ansi-c)
 - [buffer](#buffer)
 - [file descriptor](#file-descriptor)
+- [K&R C](#kr-c)
 - [pointer](#pointer)
 
 ### ANSI C
@@ -16,6 +17,9 @@ A temporary storage area.
 
 ### file descriptor
 An abstract indicator for accessing a file.
+
+### K&R C
+An informal specification of C from the book "The C Programming Language" by Brian Kernighan and Dennis Ritchie.
 
 ### pointer
 A memory address of another piece of data.
