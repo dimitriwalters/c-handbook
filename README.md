@@ -8,6 +8,7 @@ Concepts good to know for C programmers
 - [file descriptor](#file-descriptor)
 - [K&R C](#kr-c)
 - [pointer](#pointer)
+- [stream](#stream)
 
 ### ANSI C
 A standard implementation of C published by the American National Standards Institute in 1989.
@@ -23,3 +24,6 @@ An informal specification of C from the book "The C Programming Language" by Bri
 
 ### pointer
 A memory address of another piece of data.
+
+### stream
+A sequential flow of data.
