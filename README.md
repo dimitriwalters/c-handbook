@@ -7,6 +7,7 @@ Concepts good to know for C programmers
 - [buffer](#buffer)
 - [file descriptor](#file-descriptor)
 - [K&R C](#kr-c)
+- [memory leak](#memory-leak)
 - [pointer](#pointer)
 - [stream](#stream)
 
@@ -21,6 +22,9 @@ An abstract indicator for accessing a file.
 
 ### K&R C
 An informal specification of C from the book "The C Programming Language" by Brian Kernighan and Dennis Ritchie.
+
+### memory leak
+A block of memory that is allocated by a programmer, but is not deallocated.
 
 ### pointer
 A memory address of another piece of data.
